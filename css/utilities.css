@@ -4,7 +4,9 @@
   margin: 0 auto;
   padding: 0 40px;
 }
-
+.logo{
+  cursor: pointer;
+}
 .card {
   background-color: #fff;
   color: #333;

@@ -67,7 +67,7 @@ pre {
   transition: 2s;
   transition: border-bottom 0.1s;
 }
-.navbar a:hover {
+.navbar nav a:hover {
   border-bottom: 2.5px solid #fff;
 }
 
